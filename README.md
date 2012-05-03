@@ -1,3 +1,6 @@
+Don
+- I've used this with OpenLayers 2.12-rc1 to execute an action when the mouse stops moving while it's on top the map
+
 ﻿The event can be bound in the same way you would any other event:
 
     $('#box').bind('mousestop', function() {
